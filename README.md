@@ -8,11 +8,7 @@ Built with Python from scratch
 You take turns playing either against another player or computer.
 The Computer makes random decisions, currently very easy to beat.
 
-The board is displayed as so in the terminal.
-
-| A1 | A2 | A3 |
-| B1 | B2 | B3 |
-| C1 | C2 | C3 |
+![image](https://github.com/westerandr/tic-tac-toe/assets/20700150/e3c5dabd-52e0-432b-a72f-094335676790)
 
 From here you enter which coordinate square to occupy.
 Player 1 is always X
@@ -25,7 +21,7 @@ Scores are recorded.
 
 ## Instructions
 
-`git clone https://github.com/westerandr/tic-tac-toe.git`
-`cd tic-tac-toe/`
-`python main.py`
+* `git clone https://github.com/westerandr/tic-tac-toe.git`
+* `cd tic-tac-toe/`
+* `python main.py`
 
